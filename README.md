@@ -1,14 +1,17 @@
-<table>
-  <tr>
-    <td width="200" align="center">
-      <img src="https://avatars.githubusercontent.com/u/38852525?v=4" width="120" height="120" style="border-radius: 50%;">
-    </td>
-    <td>
-      <h1>Hi, I'm Ibe Emeka Eric 👋💻🚀✨</h1>
-      <h3>🌟 Full Stack Developer & Prompt Engineer | Architecting High-Performance Web Applications & AI-Driven Workflows. 🤖🔥🧠</h3>
-    </td>
-  </tr>
-</table>
+<!-- HEADER WITH ROUNDED AVATAR & NAME SIDE-BY-SIDE -->
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <img src="https://avatars.githubusercontent.com/u/38852525?v=4" width="110" height="110" style="border-radius: 50%;" />
+      </td>
+      <td>
+        <h1>Hi, I'm Ibe Emeka Eric 👋💻🚀✨</h1>
+        <h3>🌟 Full Stack Developer & Prompt Engineer | Architecting High-Performance Web Applications & AI-Driven Workflows. 🤖🔥🧠</h3>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="left"> 
   <a href="mailto:emekaeric12@gmail.com">📧 Email</a> | 
