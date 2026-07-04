@@ -1,11 +1,16 @@
-<p align="left">
+<table>
+<tr>
+<td width="140">
   <img src="https://avatars.githubusercontent.com/u/38852525?v=4" width="120" height="120" style="border-radius: 50%; border: 3px solid #0e75b6;" alt="Ibe Emeka Eric">
-  
-  <br>
-  
-  <h1>Hi, I'm Ibe Emeka Eric 👋💻🚀✨</h1>
-  <h3>🌟 Full Stack Developer & Prompt Engineer | Architecting High-Performance Web Applications & AI-Driven Workflows. 🤖🔥🧠</h3>
-</p>
+</td>
+<td>
+
+# Hi, I'm Ibe Emeka Eric 👋💻🚀✨
+### 🌟 Full Stack Developer & Prompt Engineer | Architecting High-Performance Web Applications & AI-Driven Workflows. 🤖🔥🧠
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -15,6 +20,7 @@
   <a href="Ibe_Emeka_Eric_Resume.pdf">📄 Download Resume</a> 
 </p>
 
+---
 ---
 
 ## 👨‍💻 Professional Profile 💼📈
