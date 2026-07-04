@@ -1,4 +1,4 @@
-<img src="assets/avatar-rounded.png" align="left" width="120" height="120" style="border-radius: 50%; border: 3px solid #0e75b6; margin-right: 15px;" alt="Ibe Emeka Eric">
+<img src="https://avatars.githubusercontent.com/u/38852525?v=4" align="left" width="120" height="120" style="border-radius: 50%; border: 3px solid #0e75b6; margin-right: 15px;" alt="Ibe Emeka Eric">
 
 # Hi, I'm Ibe Emeka Eric 👋💻🚀✨
 
