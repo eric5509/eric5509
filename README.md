@@ -1,6 +1,9 @@
-# Ibe Emeka Eric 👋💻🚀✨
-
-### 🌟 Full Stack Developer & Prompt Engineer | Architecting High-Performance Web Applications & AI-Driven Workflows. 🤖🔥🧠
+<p align="left">
+  <img src="YOUR_IMAGE_URL" width="100" height="100" style="float: left; margin-right: 20px;">
+  <h1>Hi, I'm Ibe Emeka Eric 👋💻🚀✨</h1>
+  <h3>🌟 Full Stack Developer & Prompt Engineer | Architecting High-Performance Web Applications & AI-Driven Workflows. 🤖🔥🧠</h3>
+</p>
+<br clear="left"/>
 
 <p align="left"> 
   <a href="mailto:emekaeric12@gmail.com">📧 Email</a> | 
